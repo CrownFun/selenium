@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "FailedLoginTest",
+      "children" : [ {
+        "name" : "tryToLoginWithIncorrectLoginAndPassword",
+        "uid" : "54de4a18841348ea",
+        "parentUid" : "80e0d837ab1edf890d1b7bc2f9b31bc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540211170367,
+          "stop" : 1540211171840,
+          "duration" : 1473
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "80e0d837ab1edf890d1b7bc2f9b31bc4"
+    }, {
+      "name" : "PositiveLoginTest",
+      "children" : [ {
+        "name" : "tryToLoginWithCorrectLoginAndPassword",
+        "uid" : "d4b116aed8915d84",
+        "parentUid" : "22c189c686b169bb40e9334c8f5dfbf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540211186461,
+          "stop" : 1540211187749,
+          "duration" : 1288
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "22c189c686b169bb40e9334c8f5dfbf7"
+    }, {
+      "name" : "ReservationHotelTest",
+      "children" : [ {
+        "name" : "tryToMakeReservationHotel",
+        "uid" : "76aab87d398e3a7e",
+        "parentUid" : "365ee451fe5c455ff31f2c75d3a72d47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540211203075,
+          "stop" : 1540211234331,
+          "duration" : 31256
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "365ee451fe5c455ff31f2c75d3a72d47"
+    } ],
+    "uid" : "bf49149a3821e34f7608bb6885d52868"
+  } ]
+}

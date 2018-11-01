@@ -1,0 +1,31 @@
+[ {
+  "uid" : "54de4a18841348ea",
+  "name" : "tryToLoginWithIncorrectLoginAndPassword",
+  "time" : {
+    "start" : 1540211170367,
+    "stop" : 1540211171840,
+    "duration" : 1473
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4b116aed8915d84",
+  "name" : "tryToLoginWithCorrectLoginAndPassword",
+  "time" : {
+    "start" : 1540211186461,
+    "stop" : 1540211187749,
+    "duration" : 1288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76aab87d398e3a7e",
+  "name" : "tryToMakeReservationHotel",
+  "time" : {
+    "start" : 1540211203075,
+    "stop" : 1540211234331,
+    "duration" : 31256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

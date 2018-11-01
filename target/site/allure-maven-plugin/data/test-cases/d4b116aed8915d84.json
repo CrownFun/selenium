@@ -1,0 +1,85 @@
+{
+  "uid" : "d4b116aed8915d84",
+  "name" : "tryToLoginWithCorrectLoginAndPassword",
+  "fullName" : "tests.PositiveLoginTest.tryToLoginWithCorrectLoginAndPassword",
+  "historyId" : "dd25896dd28d593cb9c40970b556cb48",
+  "time" : {
+    "start" : 1540211186461,
+    "stop" : 1540211187749,
+    "duration" : 1288
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1540211174795,
+      "stop" : 1540211186457,
+      "duration" : 11662
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1540211187753,
+      "stop" : 1540211190700,
+      "duration" : 2947
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.PositiveLoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.PositiveLoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tryToLoginWithCorrectLoginAndPassword"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Hotel Website Tests"
+  }, {
+    "name" : "suite",
+    "value" : "Positive Login Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.PositiveLoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAO8G9R"
+  }, {
+    "name" : "thread",
+    "value" : "8624@DESKTOP-KAO8G9R.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4b116aed8915d84.json",
+  "parameterValues" : [ ]
+}

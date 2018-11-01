@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","tests.FailedLoginTest.tryToLoginWithIncorrectLoginAndPassword","1473",""
+"passed","tests.PositiveLoginTest.tryToLoginWithCorrectLoginAndPassword","1288",""
+"passed","tests.ReservationHotelTest.tryToMakeReservationHotel","31256",""

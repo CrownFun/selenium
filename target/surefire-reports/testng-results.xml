@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hotel Website Tests" duration-ms="79221" started-at="2018-10-22T12:25:55Z" finished-at="2018-10-22T12:27:15Z">
+    <groups>
+    </groups>
+    <test name="Negative Login Tests" duration-ms="18926" started-at="2018-10-22T12:25:55Z" finished-at="2018-10-22T12:26:14Z">
+      <class name="tests.FailedLoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.FailedLoginTest@765f05af]" name="beforeTest" is-config="true" duration-ms="14296" started-at="2018-10-22T12:25:55Z" finished-at="2018-10-22T12:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tryToLoginWithIncorrectLoginAndPassword()[pri:0, instance:tests.FailedLoginTest@765f05af]" name="tryToLoginWithIncorrectLoginAndPassword" duration-ms="1544" started-at="2018-10-22T12:26:10Z" finished-at="2018-10-22T12:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryToLoginWithIncorrectLoginAndPassword -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.FailedLoginTest@765f05af]" name="afterTest" is-config="true" duration-ms="2924" started-at="2018-10-22T12:26:11Z" finished-at="2018-10-22T12:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.FailedLoginTest -->
+    </test> <!-- Negative Login Tests -->
+    <test name="Positive Login Tests" duration-ms="15920" started-at="2018-10-22T12:26:14Z" finished-at="2018-10-22T12:26:30Z">
+      <class name="tests.PositiveLoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.PositiveLoginTest@77a98a6a]" name="beforeTest" is-config="true" duration-ms="11662" started-at="2018-10-22T12:26:14Z" finished-at="2018-10-22T12:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tryToLoginWithCorrectLoginAndPassword()[pri:0, instance:tests.PositiveLoginTest@77a98a6a]" name="tryToLoginWithCorrectLoginAndPassword" duration-ms="1289" started-at="2018-10-22T12:26:26Z" finished-at="2018-10-22T12:26:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryToLoginWithCorrectLoginAndPassword -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.PositiveLoginTest@77a98a6a]" name="afterTest" is-config="true" duration-ms="2948" started-at="2018-10-22T12:26:27Z" finished-at="2018-10-22T12:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.PositiveLoginTest -->
+    </test> <!-- Positive Login Tests -->
+    <test name="Reservation Hotel Tests" duration-ms="44359" started-at="2018-10-22T12:26:30Z" finished-at="2018-10-22T12:27:15Z">
+      <class name="tests.ReservationHotelTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ReservationHotelTest@5a7005d]" name="beforeTest" is-config="true" duration-ms="12371" started-at="2018-10-22T12:26:30Z" finished-at="2018-10-22T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tryToMakeReservationHotel()[pri:0, instance:tests.ReservationHotelTest@5a7005d]" name="tryToMakeReservationHotel" duration-ms="31258" started-at="2018-10-22T12:26:43Z" finished-at="2018-10-22T12:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tryToMakeReservationHotel -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ReservationHotelTest@5a7005d]" name="afterTest" is-config="true" duration-ms="724" started-at="2018-10-22T12:27:14Z" finished-at="2018-10-22T12:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.ReservationHotelTest -->
+    </test> <!-- Reservation Hotel Tests -->
+  </suite> <!-- Hotel Website Tests -->
+</testng-results>

@@ -1,0 +1,85 @@
+{
+  "uid" : "54de4a18841348ea",
+  "name" : "tryToLoginWithIncorrectLoginAndPassword",
+  "fullName" : "tests.FailedLoginTest.tryToLoginWithIncorrectLoginAndPassword",
+  "historyId" : "b5209f9edd451992cafce1e3b4199e05",
+  "time" : {
+    "start" : 1540211170367,
+    "stop" : 1540211171840,
+    "duration" : 1473
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1540211155916,
+      "stop" : 1540211170184,
+      "duration" : 14268
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1540211171840,
+      "stop" : 1540211174764,
+      "duration" : 2924
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.FailedLoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FailedLoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tryToLoginWithIncorrectLoginAndPassword"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Hotel Website Tests"
+  }, {
+    "name" : "suite",
+    "value" : "Negative Login Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.FailedLoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAO8G9R"
+  }, {
+    "name" : "thread",
+    "value" : "8624@DESKTOP-KAO8G9R.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54de4a18841348ea.json",
+  "parameterValues" : [ ]
+}

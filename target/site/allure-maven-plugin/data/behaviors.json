@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "tryToLoginWithIncorrectLoginAndPassword",
+    "uid" : "54de4a18841348ea",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1540211170367,
+      "stop" : 1540211171840,
+      "duration" : 1473
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "tryToLoginWithCorrectLoginAndPassword",
+    "uid" : "d4b116aed8915d84",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1540211186461,
+      "stop" : 1540211187749,
+      "duration" : 1288
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "tryToMakeReservationHotel",
+    "uid" : "76aab87d398e3a7e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1540211203075,
+      "stop" : 1540211234331,
+      "duration" : 31256
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
